@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://learnpick.kr/sitemap.xml
